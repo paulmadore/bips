@@ -1,6 +1,6 @@
 ﻿<pre>
   BIP: XXX
-  Title: Maximum Block Size Consensus Rule Based On Median Block Size
+  Title: Elastic Block Size Consensus Rule Based On Median Block Size
   Author: Stephen Pair <stephen@bitpay.com>, Chris Kleeschulte <chrisk@bitpay.com>
   Status: Draft
   Type: Standards Track
